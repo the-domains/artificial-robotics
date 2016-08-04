@@ -1,0 +1,14 @@
+layout_spectrum: 0.5546091510914266
+typography_spectrum: 0.48324050405062735
+color:
+  brandStrength: 0.8001291861291975
+  lightness: 0.38889724598266184
+  saturation: 0.8256538936402649
+  rhythmicContrast: 0.6319579626433551
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: artificial robotics
